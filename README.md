@@ -53,10 +53,10 @@ flutter run -d chrome --web-port 50000
 ## 📸 Screenshots
 
 **1. หน้าจอหลักและระบบค้นหาแบบบ้าน**
-![หน้าจอรายการแบบบ้าน](path/to/image_4fc79d.png)
+![หน้าจอรายการแบบบ้าน](screenshots/home.png)
 
 **2. ระบบจัดการการนัดหมาย (CRUD - สร้าง, อ่าน, แก้ไข, ลบ)**
-![หน้าจอการนัดหมายของฉัน](path/to/image_4fc818.png)
+![หน้าจอการนัดหมายของฉัน](screenshots/crud.png)
 
 ## 🎥 Demo Video
 
