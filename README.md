@@ -61,4 +61,4 @@ flutter run -d chrome --web-port 50000
 
 ## 🎥 Demo Video
 
-[YouTube link - unlisted](https://youtube.com/your-video-link)
+[YouTube link - unlisted](https://youtu.be/RJ0zQA-cPB8?si=c4lfwwb-23fUZQFq)
